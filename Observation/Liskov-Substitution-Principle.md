@@ -25,7 +25,6 @@ If broken → Surprising behavior, crashes, difficult to test
 
 The only addition: **"not narrowing down behavior"** — meaning the methods of B should do what A promised (or more), not less.
 
-Excellent, Mohammed — now we’re talking **industry level** thinking.
 Let’s do it in 3 steps:
 
 ---
